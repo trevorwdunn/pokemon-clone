@@ -1,0 +1,10 @@
+main
+main.o
+pokemon.o
+pokemon
+firetype.o
+firetype
+grasstype.o
+grasstype
+watertype.o
+watertype
