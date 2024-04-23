@@ -4,8 +4,8 @@
 
 class Pokemon
 {
-private:
-    int dexNumer;
+protected:
+    int dexNumber;
     std::string name;
     int hitPoints;
     int attack;
