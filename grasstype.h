@@ -13,7 +13,6 @@ private:
 
 public:
     GrassType(std::string name = "MissingNo", int hitPoints = 0, int attack = 0, int defense = 0, int speed = 0);
-    GrassType(std::string name, int hitPoints, int attack, int defense, int speed);
 
     // Getters
     bool getWaterResult() const;

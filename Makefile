@@ -5,7 +5,7 @@ CC = g++
 CFLAGS = -Wall -Wextra -std=c++11
 
 # Source files
-SRCS = main.cpp pokemon.cpp firetype.cpp grasstype.cpp watertype.cpp 
+SRCS = main.cpp pokemon.cpp firetype.cpp grasstype.cpp watertype.cpp
 
 # Object files
 OBJS = $(SRCS:.cpp=.o)
